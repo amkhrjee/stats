@@ -14,3 +14,4 @@ These are the books I used for learning various topics in Stats. Some are genera
 2. _Mathematical Statistics with Applications_ by KM Ramachandran & CP Tsokos
 3. _Introduction to Statistical Learning with Python_ by Hastie et al.
 4. _Elements of Statistical Learning_ by Hastie et al.
+5. _Regression Analysis by Examples_ by Chatterjee et al.
