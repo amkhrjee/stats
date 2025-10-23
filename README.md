@@ -18,7 +18,7 @@ These are the books I used for learning various topics in Stats. Some are genera
 
 ## YouTube Channel recommendations
 
-These channels were incredibly helpful in developing a clear understanding of some of the topics discussed in this repo.
+These channels were incredibly helpful in developing my understanding of some of the topics discussed in this repo.
 
 - [Mutual Information](https://www.youtube.com/@Mutual_Information)
 - [Biostatistics](https://www.youtube.com/@Frans_Rodenburg)
