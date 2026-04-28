@@ -13,4 +13,5 @@ dependencies = [
     "pygam>=0.10.1",
     "scikit-fda>=0.10.1",
     "scikit-learn>=1.7.2",
+    "seaborn>=0.13.2",
 ]
